@@ -1,4 +1,4 @@
-# branch_tec
+# branch_tech_test
 This repo contains all 3 of the deliverables requested:
 Deliverable 1: branch_techtest_erd.png
 Deliverable 2: branch_tech_test.py
